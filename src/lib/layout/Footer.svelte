@@ -21,7 +21,7 @@
 						</span>
 					</div>
 					<div class="row-start-2 flex place-content-center space-x-3">
-						<Github github_repo={"https://github.com/jordanSatsih"}/>
+						<Github github_repo={"https://github.com/satsihh/Base-Testnet-satsih"}/>
 					</div>
 				</div>
 			</div>
